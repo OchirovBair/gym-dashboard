@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gym-dashboard/static/css/main.a1c0f2c3.css",
-    "main.js": "/gym-dashboard/static/js/main.221aecb9.js",
+    "main.js": "/gym-dashboard/static/js/main.74249290.js",
     "static/js/453.d0aa10cd.chunk.js": "/gym-dashboard/static/js/453.d0aa10cd.chunk.js",
     "static/media/iconsSprite.svg": "/gym-dashboard/static/media/iconsSprite.69ec81a9294f019f87b63af081777025.svg",
     "index.html": "/gym-dashboard/index.html",
     "main.a1c0f2c3.css.map": "/gym-dashboard/static/css/main.a1c0f2c3.css.map",
-    "main.221aecb9.js.map": "/gym-dashboard/static/js/main.221aecb9.js.map",
+    "main.74249290.js.map": "/gym-dashboard/static/js/main.74249290.js.map",
     "453.d0aa10cd.chunk.js.map": "/gym-dashboard/static/js/453.d0aa10cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1c0f2c3.css",
-    "static/js/main.221aecb9.js"
+    "static/js/main.74249290.js"
   ]
 }
